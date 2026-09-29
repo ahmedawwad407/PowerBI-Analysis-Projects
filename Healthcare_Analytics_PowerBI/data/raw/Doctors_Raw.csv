@@ -1,0 +1,104 @@
+Doctor_ID,Doctor_Name,Specialization,Department_ID,Years_of_Experience
+1,Dr. Rania Khalil,Oncologist,6,11
+2,Dr. Salma Khatib,Trauma Specialist,4,13
+3,Dr. Aya Suleiman,Neonatologist,3,18
+4,Dr. Khaled Najjar,Emergency Physician,2,20
+5,Dr. Ali Nasser,Neurologist,5,9
+6,Dr. Ahmed Mansour,Pediatrician,3,2
+7,Dr. Hala Khalil,Orthopedic Surgeon,4,10
+8,Dr. Yousef Jaber,Cardiac Surgeon,1,10
+9,Dr. Dana Hassan,Neurologist,5,13
+10,Dr. Hala Khatib,Radiologist,10,17
+11,Dr. Dana Taha,Internist,9,1
+12,Dr. Maya Suleiman,Interventional Radiologist,10,7
+13,Dr. Khaled Othman,Oncologist,6,45
+14,Dr. Mohammad Hamad,Radiologist,10,20
+15,Dr. Ali Khalil,Internist,9,10
+16,Dr. Sara Barakat,Orthopedic Surgeon,4,8
+17,Dr. Aya Saleh,Emergency Physician,2,15
+18,,General Surgeon,7,7
+19,Dr. Yousef Najjar,Neurologist,5,11
+20,Dr. Hassan Yasin,Cardiac Surgeon,1,24
+21,Dr. Salma Nasser,Emergency Medicine Specialist,2,24
+22,Dr. Omar Darwish,Neurologist,5,9
+23,Dr. Mahmoud Othman,Emergency Physician,2,10
+24,Dr. Mahmoud Hamdan,Interventional Cardiologist,1,7
+25,Dr. Lina Suleiman,Radiologist,10,1
+26,Dr. Yousef Hamdan,Dermatologic Surgeon,8,19
+27,Dr. Lina Hassan,laparoscopic surgeon,7,28
+28,Dr. Lina Saleh,Dermatologic Surgeon,8,8
+29,Dr. Ali AbuAli,Dermatologist,8,6
+30,Dr. Hassan Nasser,Laparoscopic Surgeon,7,10
+31,Dr. Hassan Najjar,Cardiac Surgeon,1,12
+32,Dr. Yousef Khalil,Internist,9,4
+33,Dr. Aya Awwad,Oncologist,6,8
+34,Dr. Salma Barakat,Radiologist,10,19
+35,Dr. Noor Barakat,Interventional Cardiologist,1,12
+36,Dr. Ahmed Qasem,Cardiac Surgeon,1,20
+37,Dr. Adam Barakat,Interventional Radiologist,10,14
+38,Dr. Salma AbuAli,General Surgeon,7,4
+39,Dr. Hassan Shami,Orthopedic Surgeon,4,7
+40,Dr. Rania Nasser,Cardiac Surgeon,1,13
+41,Dr. Hala Awwad,Oncologist,6,4
+42,Dr. Rania Khalil,Interventional Radiologist,10,3
+43,Dr. Dana Suleiman,Cardiologist,1,3
+44,Dr. Khaled Othman,Trauma Specialist,4,15
+45,Dr. Ahmed Barakat,Trauma Specialist,4,9
+46,Dr. Rania Jaber,Gastroenterologist,9,20
+47,,Internist,9,45
+48,Dr. Khaled AbuAli,interventional radiologist,10,1
+49,Dr. Salma Awwad,Hematologist,6,11
+50,Dr. Ali Taha,Neonatologist,3,23
+51,Dr. Ali Qasem,Gastroenterologist,9,12
+52,Dr. Lina Darwish,Neurologist,5,2
+53,Dr. Salma Nasser,Trauma Specialist,4,1
+54,Dr. Hassan Jaber,Cardiac Surgeon,1,60
+55,Dr. Mahmoud Suleiman,Neonatologist,3,6
+56,,Gastroenterologist,9,22
+57,Dr. Maya Hamad,Orthopedic Surgeon,4,16
+58,Dr. Mahmoud Yasin,Pediatrician,3,6
+59,Dr. Adam AbuAli,Interventional Cardiologist,1,20
+60,Dr. Aya Qasem,Neurosurgeon,5,5
+61,Dr. Noor Hamdan,Laparoscopic Surgeon,7,1
+62,Dr. Adam Nasser,Dermatologic Surgeon,8,5
+63,Dr. Rania Khalil,Orthopedic Surgeon,4,17
+64,Dr. Maya AbuAli,Cardiologist,1,19
+65,Dr. Sara Qasem,Dermatologist,8,9
+66,Dr. Aya Najjar,Interventional Radiologist,10,1
+67,Dr. Mohammad Hamdan,Interventional Cardiologist,1,1
+68,,Internist,9,4
+69,,Emergency Physician,2,2
+70,Dr. Aya Mansour,Oncologist,6,13
+71,Dr. Hassan Barakat,Neurologist,5,0
+72,Dr. Noor Yasin,Emergency Medicine Specialist,2,17
+73,Dr. Mohammad Jaber,Emergency Medicine Specialist,2,4
+74,Dr. Hassan Barakat,Cardiologist,1,7
+75,Dr. Hala Khatib,Emergency Physician,2,8
+76,Dr. Ahmed Darwish,Laparoscopic Surgeon,7,-3
+77,Dr. Adam Barakat,hematologist,6,22
+78,Dr. Khaled Barakat,Neurologist,5,8
+79,Dr. Hala Hamdan,general surgeon,7,22
+80,Dr. Aya Khalil,Dermatologic Surgeon,8,26
+81,Dr. Hassan Jaber,Cardiac Surgeon,1,9
+82,Dr. Sara Hamdan,Neurosurgeon,5,9
+83,Dr. Lina Suleiman,Interventional Radiologist,10,9
+84,Dr. Ahmed AbuAli,Cardiologist,1,12
+85,Dr. Yousef Khatib,Emergency Medicine Specialist,2,9
+86,Dr. Ali Najjar,Pediatrician,3,18
+87,Dr. Hala Barakat,Trauma Specialist,4,1
+88,Dr. Ali Nasser,Neurosurgeon,5,8
+89,Dr. Maya Taha,Orthopedic Surgeon,4,14
+90,Dr. Lina Hassan,Gastroenterologist,9,18
+91,Dr. Ahmed Hamad,dermatologist,8,27
+92,Dr. Ahmed Khatib,Neurologist,5,2
+93,Dr. Lina Hassan,General Surgeon,7,7
+94,Dr. Hassan Suleiman,Emergency Medicine Specialist,2,1
+95,Dr. Mahmoud Hamdan,Cardiac Surgeon,1,4
+96,Dr. Dana Hamdan,Neurologist,99,1
+97,Dr. Aya Hassan,Dermatologist,0,8
+98,Dr. Khaled Najjar,Laparoscopic Surgeon,7,10
+99,Dr. Sara Nasser,Interventional Radiologist,10,15
+100,Dr. Salma Qasem,Neonatologist,3,9
+11,Dr. Dana Taha,Internist,9,1
+31,Dr. Hassan Najjar,Cardiac Surgeon,1,12
+71,Dr. Hassan Barakat,Neurologist,5,0

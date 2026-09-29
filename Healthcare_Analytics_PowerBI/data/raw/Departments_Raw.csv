@@ -1,0 +1,13 @@
+Department_ID,Department_Name,Hospital_Branch
+1,Cardiology,Main Branch
+2,Emergency,Main Branch
+3,Pediatrics ,Main Branch
+4,Orthopedics,North Branch
+5,Neurology,Main Branch
+6,Oncology,Main Branch
+7,General Surgery,South Branch
+8,Dermatology,North branch
+9,Internal Medicine,Main Branch
+10,Radiology,South Branch
+2,Emergency,Main Branch
+6,Oncology,Main Branch
