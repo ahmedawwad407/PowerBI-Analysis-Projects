@@ -1,0 +1,9 @@
+Carrier_ID,Carrier_Name,Carrier_Type
+C01,FastTrack Logistics,Courier
+C02,Global Express,Courier
+C03,Prime Delivery,Freight
+C04,Swift Cargo,Freight
+C05,BlueLine Freight,Courier
+C06,Metro Ship,Courier
+C07,Reliable Transport,Freight
+C08,SpeedWay Logistics,Courier

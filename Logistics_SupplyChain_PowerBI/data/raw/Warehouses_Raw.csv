@@ -1,0 +1,11 @@
+Warehouse_ID,Warehouse_Name,Region,Capacity_Units
+W01,Central Hub,Central,25000
+W02,North Hub,North,18000
+W03,South Hub,South,22000
+W04,East Hub,East,16000
+W05,West Hub,West,20000
+W06,Airport Hub,Central,15000
+W07,Industrial Hub,East,24000
+W08,Retail Hub,West,12000
+W09,Coastal Hub,South,17000
+W10,Regional Hub,North,19000
